@@ -1,16 +1,12 @@
-# tractian_task
+Performance Optimization
+I would implement data caching and lazy loading to reduce API calls and improve app responsiveness, especially when switching between companies or applying filters.
 
-A new Flutter project.
+Test Coverage
+Adding unit tests and integration tests to ensure long-term maintainability and reduce the risk of regressions during future development.
 
-## Getting Started
+Scalability & Architecture
+I’d consider refining the project structure by introducing a more modular architecture (e.g., clean architecture or feature-based organization) to better support future scalability and team collaboration.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+video link : https://drive.google.com/file/d/1nqhSYm0tomvFJ-Rn0WKz7RpznMxqv2MY/view?usp=sharing
